@@ -1,0 +1,6 @@
+.playground {
+  display: grid;
+  grid-template-columns: repeat(var(--_playground-width), 1fr);
+  gap: 4px;
+  margin: 8px;
+}

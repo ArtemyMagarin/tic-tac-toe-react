@@ -1,0 +1,13 @@
+.cell {
+  height: 64px;
+  width: 64px;
+}
+
+.highlighted {
+  border-color: purple;
+}
+
+.disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}
